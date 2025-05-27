@@ -28,8 +28,8 @@
 
 
 <record id="music_school_instrument_view_form" model="ir.ui.view">
-    <field name="name">music.instrument.student.view.form</field>
-    <field name="model">music.instrument.student</field>
+    <field name="name">music.school.instrument.view.form</field>
+    <field name="model">music.school.instrument</field>
     <field name="arch" type="xml">
         <form string="Instrument">
             <sheet>
